@@ -39,7 +39,7 @@
 ## 代码实现
 
 ```python
-n_classes = 2 
+n_classes = 1000 
 n_fc1 = 4096
 n_fc2 = 2048
 #构建模型
